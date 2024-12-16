@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Aulas/Aulas.iml" filepath="$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Aulas/Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Formação 2 - Aprenda a programar em Java com O.O.iml" filepath="$PROJECT_DIR$/.idea/Formação 2 - Aprenda a programar em Java com O.O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/Projeto Final/Projeto Final.iml" filepath="$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/Projeto Final/Projeto Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula1desafio/aula1desafio.iml" filepath="$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula1desafio/aula1desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula2desafio/aula2desafio.iml" filepath="$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula2desafio/aula2desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula3desafio/aula3desafio.iml" filepath="$PROJECT_DIR$/Curso 1 - Criando sua primeira aplicação/Desafios - Curso 1/aula3desafio/aula3desafio.iml" />
+    </modules>
+  </component>
+</project>
