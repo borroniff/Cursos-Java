@@ -7,8 +7,8 @@ Neste repositório, também é possível encontrar os exercícios desenvolvidos 
 <br>
 Clique abaixo para acessar os **PROJETOS FINAIS** de cada curso:
 <br>
-:rocket: - [Curso 1 - Conta Bancária](https://github.com/borroniff/Conta-Bancaria)
+:money_with_wings: - [Curso 1 - Conta Bancária](https://github.com/borroniff/Conta-Bancaria)
 <br>
-:rocket: - [Curso 2 - Streaming de áudio](https://github.com/borroniff/Streaming-de-audio)
+:headphones: - [Curso 2 - Streaming de áudio](https://github.com/borroniff/Streaming-de-audio)
 <br>
-:rocket: - [Curso - Cartão de Crédito](https://github.com/borroniff/Cartao-de-credito)
+:credit_card: - [Curso - Cartão de Crédito](https://github.com/borroniff/Cartao-de-credito)
