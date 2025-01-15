@@ -7,8 +7,8 @@ Neste repositório, também é possível encontrar os exercícios desenvolvidos 
 <br>
 Clique abaixo para acessar os **PROJETOS FINAIS** de cada curso:
 <br>
-:rocket: - [Curso 1](https://github.com/borroniff/Cursos-Java/tree/main/Curso%201%20-%20Criando%20sua%20primeira%20aplica%C3%A7%C3%A3o/Desafios%20-%20Curso%201/Projeto%20Final)
+:rocket: - [Curso 1 - Conta Bancária](https://github.com/borroniff/Conta-Bancaria)
 <br>
-:rocket: - [Curso 2](https://github.com/borroniff/Cursos-Java/tree/main/Curso%202%20-%20Aplicando%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Desafios%20-%20Curso%202/Projeto%20Final/Spotj)
+:rocket: - [Curso 2 - Streaming de áudio](https://github.com/borroniff/Streaming-de-audio)
 <br>
-:rocket: - [Curso 3](https://github.com/borroniff/Cursos-Java/tree/main/Curso%203%20-%20Trabalhando%20com%20listas%20e%20colecoes%20de%20dados/Desafios%20-%20Curso%203/Projeto%20Final)
+:rocket: - [Curso - Cartão de Crédito](https://github.com/borroniff/Cartao-de-credito)
