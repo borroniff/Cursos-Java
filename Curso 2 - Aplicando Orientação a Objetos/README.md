@@ -1,4 +1,4 @@
-##Curso 2 - Curso 2 - Aplicando Orientação a Objetos
+##Curso 2 - Aplicando Orientação a Objetos
 ----------------------------------------------------------------------
 Aqui estão todas as atividades desenvolvidas em aula durante o curso, bem como seus desafios e exercícios para fixação.
 <br>
